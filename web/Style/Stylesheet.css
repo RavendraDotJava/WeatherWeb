@@ -1,0 +1,25 @@
+
+body {
+    background-image: url(image/back.jpg);
+    background-size: auto;
+}
+form{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    margin: 25px;
+}
+#in{
+    width: 25rem;
+    height: 2rem;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+.weather{
+    display: flex;
+    flex-direction: column;
+
+
+}
